@@ -10,10 +10,10 @@ const CarouselCom = () => {
         <>
             <Carousel autoplay className="bg-[#364d79]">
                 <div className="p-[50px] bg-[#364d79]">
-                    <img className="min-w-[200px] max-w-[80%] mx-[auto]" style={contentStyle} src="./public/karsoftBanner.jpg" />
+                    <img className="min-w-[250px] min-h-[250px] max-h-[100%] max-w-[80%] mx-[auto]" style={contentStyle} src="./public/karsoftBanner.jpg" />
                 </div>
                 <div className="p-[50px] bg-[#364d79]">
-                    <img className="min-w-[200px] max-w-[80%] mx-[auto]" style={contentStyle} src="./public/karsoftBannerWhite.jpg" />
+                    <img className="min-w-[200px] min-h-[250px] max-h-[100%] max-w-[80%] mx-[auto]" style={contentStyle} src="./public/karsoftBannerWhite.jpg" />
                 </div>
             </Carousel>
         </>

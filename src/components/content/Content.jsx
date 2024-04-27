@@ -39,7 +39,7 @@ const Content = () => {
                     </Box>
                 </Box>
                 <Box  width={"50%"} flex={'1'} display={{md:'none', lg:'flex'}} justifyContent={'flex-end'} alignItems={'flex-end'}>
-                    <Img src="/public/girl-jtrnoXsF.jpg"/>
+                    <Img src="public/girl-jtrnoXsF.jpg"/>
                 </Box>
             </Box>
         </>
